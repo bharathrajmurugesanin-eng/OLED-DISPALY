@@ -1,6 +1,7 @@
-# OLED-DISPALY
-## AIM: Display Front Left Door Status on the OLED using I2C
----
+# OLED-DISPLAY
+## AIM
+Display Front Left Door Status on the OLED using I2C
+
 
 ## Apparatus Required
 
